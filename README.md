@@ -43,5 +43,4 @@ Currently a 3rd year student, pursuing Integrated B.Tech + M.Tech Information Te
 ---
  
 <!-- ACTIVITY GRAPH TRACKER -->
-[![Anuj's github activity graph](https://activity-graph.herokuapp.com/graph?username=anujpatidar3&theme=react-dark)](https://github.com/anujpatidar3/github-readme-activity-graph)
-
+![Anuj's github activity graph](https://activity-graph.herokuapp.com/graph?username=anujpatidar3&theme=react-dark)
