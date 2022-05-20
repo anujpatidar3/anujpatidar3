@@ -3,7 +3,7 @@
 
 <!--ABOUT ME CODE-->
 🌱 **About myself**<br>
-Currently a 3rd year student, pursuing Integrated B.Tech + M.Tech Information Technology in [IIIT Gwalior](https://www.iiitm.ac.in/index.php/en/).
+Pre-Final Year student, pursuing Integrated B.Tech + M.Tech Information Technology in [IIIT Gwalior](https://www.iiitm.ac.in/index.php/en/).
 - My Resume: **[Anuj_Patidar_Resume](https://drive.google.com/file/d/1TWndcjT2lYQaPhYS1y1T-MgzNKljCGp8/view?usp=sharing)**.
 - Ex-Intern at [Outshade Digital Media](https://www.linkedin.com/company/outshadedm/) as a **Full Stack Developer** between Jan, 2022 to March, 2022.
 - President of [Rotaract Club of IIITM](https://www.instagram.com/rotaractiiitm/?hl=en).
