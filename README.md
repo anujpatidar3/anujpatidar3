@@ -21,26 +21,33 @@ Pre-Final Year student, pursuing Integrated B.Tech + M.Tech Information Technolo
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/anujpatidar3)](https://www.hackerrank.com/anujpatidar3)
 
 ---
- 📶**Github Stats:**<br><br>
- 
- 
-<!--  TOP LANGUAGES STATISTICS -->
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riti2409&theme=dark&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
- 
- ---
+<details>
+<summary>📊 Github Stats</summary>
+  
+<p align="center" href="https://github.com/anujpatidar3/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anujpatidar3&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anuj's Github Stats" />
+</p>
+<p align="center" href="https://github.com/anujpatidar3/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujpatidar3&layout=compact&theme=material-palenight" />
+</p>
+
+<div align="center">
+  
+   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anujpatidar3&theme=vision-friendly-dark)](https://github.com/anujpatidar3)
+
+</div>
+<div align="center">
+  
+   [![GitHub Streak](https://github-profile-trophy.vercel.app/?username=anujpatidar3&margin-w=15&theme=vision-friendly-dark&column=3)](https://github.com/anujpatidar3)
 
 
-<!-- GITHUB STATISTICS -->
- ![Github stats](https://github-readme-stats.vercel.app/api?username=anujpatidar3&count_private=true)  
- 
- 
- <hr>
- 
-<!--  CONTRIBUTION AND STREAK BLOCK -->
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anujpatidar3&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)       
-         
+</div>
+
+<!-- ACTIVITY GRAPH TRACKER -->
+![Anuj's github activity graph](https://activity-graph.herokuapp.com/graph?username=anujpatidar3&theme=react-dark)
+
+</details>
 
 ---
  
-<!-- ACTIVITY GRAPH TRACKER -->
-![Anuj's github activity graph](https://activity-graph.herokuapp.com/graph?username=anujpatidar3&theme=react-dark)
