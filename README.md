@@ -49,4 +49,4 @@ Pre-Final Year student, pursuing Integrated B.Tech + M.Tech Information Technolo
 [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=flat-square&logo=CodeChef&logoColor=white&link=https://www.codechef.com/users/anujpatidar3)](https://www.codechef.com/users/anujpatidar3)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=LeetCode&logoColor=#d16c06&link=https://leetcode.com/anujpatidar3/)](https://leetcode.com/anujpatidar3/)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/anujpatidar3)](https://www.hackerrank.com/anujpatidar3)
-[![HackerRank](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/anujpatidar3/practice/)](https://auth.geeksforgeeks.org/user/anujpatidar3/practice/)
+[![HackerRank](https://img.shields.io/badge/GeeksforGeeks-298D46?style=flat-square&logo=geeksforgeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/anujpatidar3/practice/)](https://auth.geeksforgeeks.org/user/anujpatidar3/practice/)
