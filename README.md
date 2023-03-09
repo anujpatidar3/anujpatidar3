@@ -33,10 +33,6 @@ Pre-Final Year student, pursuing Integrated B.Tech + M.Tech Information Technolo
 
 
 </div>
-
-<!-- ACTIVITY GRAPH TRACKER -->
-![Anuj's github activity graph](https://activity-graph.herokuapp.com/graph?username=anujpatidar3&theme=react-dark)
-
 </details>
   
   ---
