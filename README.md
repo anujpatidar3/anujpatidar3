@@ -3,7 +3,7 @@
 
 <!--ABOUT ME CODE-->
 🌱 **About myself**<br>
-Pre-Final Year student, pursuing Integrated B.Tech + M.Tech Information Technology in [IIIT Gwalior](https://www.iiitm.ac.in/index.php/en/).
+Final Year student, pursuing Integrated B.Tech + M.Tech Information Technology in [IIIT Gwalior](https://www.iiitm.ac.in/index.php/en/).
 - My Resume: **[Anuj_Patidar_Resume](https://drive.google.com/file/d/1ckd_GPpU9Zb205grtPzu13_YrTG7HA3U/view)**.
 - **SDE Intern** at [Shortloop](https://www.linkedin.com/company/shortloop/)
 - Ex-Intern at [Peakflo](https://www.linkedin.com/company/peakflo/) as a **Software Developer** between Jan, 2023 to August, 2023.
